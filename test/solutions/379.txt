@@ -1,0 +1,3 @@
+Program([
+	VarDecl(quan, FloatType, BinExpr(::, StringLit(huy dang hoc \f\t), BinExpr(==, StringLit(huy chay deadline), StringLit(quan choi game))))
+])

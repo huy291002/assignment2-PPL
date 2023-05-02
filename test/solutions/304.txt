@@ -1,0 +1,4 @@
+Program([
+	VarDecl(huy, IntegerType, ArrayCell(huy, [IntegerLit(2), IntegerLit(9)]))
+	VarDecl(messi, IntegerType, ArrayCell(quan, [IntegerLit(2), IntegerLit(7)]))
+])

@@ -1,0 +1,10 @@
+__, _2_9_10: integer= {"quan con choi insta ko", hello, 12_2_9_0_1_123, 1_2.e-1}, foo(2/x);
+                main: function string (inherit a_29: string, out quan__27: array[2_1] of boolean) inherit lam_testcae {
+                    if (a != 23)
+                        return foo(4+y);
+                    
+                    else{
+                        messi(2+x/y*3);
+                        continue;
+                    }
+                }  

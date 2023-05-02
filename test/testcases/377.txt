@@ -1,0 +1,2 @@
+quang_huy : array[1_23,2_21] of float = {"huy dang hoc", "huy co gang \"hoc that tot \t\""}  ;
+                    c,d:  integer = 12_102 -- 29_1_9_0, quan[23_12, 32_1_2_06] ;

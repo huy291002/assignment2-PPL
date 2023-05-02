@@ -1,0 +1,4 @@
+Program([
+	VarDecl(saka, BooleanType, ArrayCell(super, [IntegerLit(24), IntegerLit(44)]))
+	VarDecl(antony, BooleanType, ArrayCell(hero, [IntegerLit(212), IntegerLit(742)]))
+])

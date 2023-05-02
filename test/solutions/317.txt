@@ -1,0 +1,5 @@
+Program([
+	VarDecl(_huy29_10, ArrayType([123, 221], FloatType), ArrayLit([StringLit(huy dang hoc), StringLit(huy co gang \"hoc that tot \t\")]))
+	VarDecl(a, IntegerType, BinExpr(-, IntegerLit(12102), UnExpr(-, IntegerLit(29190))))
+	VarDecl(b, IntegerType, ArrayCell(quan, [IntegerLit(2312), IntegerLit(321206)]))
+])

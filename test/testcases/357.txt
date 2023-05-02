@@ -1,0 +1,17 @@
+
+        hi: integer;
+        main: function void()
+        {
+            if (!- huy + quan/2 + -hi){
+                return huy(29+10/2*32);
+            }
+            if (true){
+                return "huy ham hoc";
+            }
+            else{
+                while(true){
+                    a = a + --21/42 % "huy";
+                }
+            }
+        }
+        

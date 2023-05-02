@@ -1,0 +1,12 @@
+
+        huy_12: float = .E-10;
+        __: boolean = true;
+        _291: function void(){
+            for (a[a[a[29_10, 9_89]]] = true, hey < hey + ---2, hi --2){
+                for (a[304] = foo(2*3), i < 1, i --2){
+                    saka(1423/23+3_124, 183*233/123-43+true);
+                }
+                jesus(true);
+            }
+        }
+        

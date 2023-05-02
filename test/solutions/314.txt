@@ -1,0 +1,4 @@
+Program([
+	VarDecl(_huy_29_n, ArrayType([4101], StringType), BinExpr(!=, StringLit(quan \b), StringLit(huy \f)))
+	VarDecl(__29_, ArrayType([4101], StringType), BinExpr(>, IntegerLit(31112123), IntegerLit(4123)))
+])

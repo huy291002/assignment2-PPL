@@ -1,0 +1,1 @@
+__06: array [2_21,3_3_12_123] of boolean;quanvahuy: integer = "quan ham hoc"; 

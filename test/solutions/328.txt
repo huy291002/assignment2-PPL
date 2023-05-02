@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(huy_29, IntegerType, [Param(a, IntegerType), Param(b, StringType), Param(e, BooleanType)], None, BlockStmt([CallStmt(goo, )]))
+])

@@ -1,0 +1,5 @@
+Program([
+	VarDecl(mami, FloatType, Id(_p_huong))
+	VarDecl(baba, FloatType, IntegerLit(40603290))
+	VarDecl(ache, FloatType, ArrayLit([IntegerLit(3), IntegerLit(9)]))
+])

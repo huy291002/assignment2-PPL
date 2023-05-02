@@ -1,0 +1,2 @@
+ba_24: function auto (a: integer, b: string, e: boolean){
+        } 

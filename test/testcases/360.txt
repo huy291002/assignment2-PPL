@@ -1,0 +1,22 @@
+
+        thien: integer = 123_21.e+23;
+        wee_542_pe: float = .e-294;
+        main: function void(){
+            if (thien != 2334_72987 && (pe == "pe cham chi pe ham hoc"))
+            {
+                for (thien_29_3728 = 38*28/323+12.23e2, thien < "thien 10 diem", a - thien + pe/29)
+                {
+                    thien = 1;
+                }
+                for (m=1_234_1_294, m < 1223_2_2_42, m + 2345e+2)
+                {
+                    testcase(10*2);
+                    if (sdjsfds==2)
+                    {
+                        h,a,d: integer = 123_23,1_4_8_9_0,29_1_0;
+                    }
+                }
+
+            }
+            thao(2/3+1*2*2+pe);
+        }

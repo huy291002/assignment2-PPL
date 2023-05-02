@@ -1,0 +1,3 @@
+__29_10 : integer = -3+29*9/10+4 ;
+                    d, c: float = !12.e3, quan || huy && thanh   ;
+                    e_1 : array[234_1,2_305,21_9,32_2] of float; 

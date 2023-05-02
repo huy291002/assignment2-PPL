@@ -1,0 +1,5 @@
+Program([
+	VarDecl(a_29, ArrayType([3910], IntegerType), ArrayLit([FloatLit(0.0), StringLit(quan \"huy di hoc \b\t\"), BooleanLit(True)]))
+	VarDecl(huy_123, ArrayType([3910], IntegerType), ArrayLit([FloatLit(1.229e-09), StringLit(huy), BooleanLit(False)]))
+	FuncDecl(hello, VoidType, [], None, BlockStmt([ReturnStmt(Id(stmt)), ContinueStmt(), BreakStmt()]))
+])

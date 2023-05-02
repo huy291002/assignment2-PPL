@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(__29, AutoType, [InheritOutParam(huy_29, StringType), OutParam(_h__, FloatType), Param(__, IntegerType)], quan_thay, BlockStmt([IfStmt(BinExpr(==, Id(i), IntegerLit(1)), ReturnStmt(Id(i)))]))
+])

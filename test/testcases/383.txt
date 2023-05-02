@@ -1,0 +1,3 @@
+ ma_6: float = 12321.2e1+1_123--3_21*1.2e+1;
+                    baba_4: integer = "huy dang lam test case \f\"dung lam phien huy\t\"";
+                     

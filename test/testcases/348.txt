@@ -1,0 +1,11 @@
+
+        ache_0309: function integer(inherit out _01_: integer, out a_01: string) {
+            if (a == !-23) break;
+            else {
+                while ( i <= i + .e-789)
+                {
+                    smt = "quan qua au \"bi sai 1 test case \t\"";
+                }
+            }
+        }
+        

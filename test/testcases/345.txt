@@ -1,0 +1,13 @@
+
+        huy2910: function void(){
+            do{
+                a[0,1_2_3] = x+1--2;
+                _quan: integer = .e-2353;
+                while (_hello :: "huyhamhoc" || "quan ham choi")
+                {
+                    t = "dung 4/5 da finish";
+                }
+            }
+            while (i < i+1);
+        }
+        

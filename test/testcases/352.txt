@@ -1,0 +1,18 @@
+
+        __huy_13, quan_2711: array[43_32, 1_03, 4_0] of boolean = {"quan ham choi \n\t\"huy di hoc\""}, .e-123;
+        m_quan_2910: function array[32_12, 432] of string(inherit d: integer) inherit _ {
+            while ((huy_29 != 29_04) && (quan_27 <= huy_2910) || (haha > huhu))
+            {
+                do {
+                    solution: boolean = true;
+                    t_c_18: float = .e-2321;
+                    do{
+                        return foodboy(n_291+2/3);
+                    }
+                    while (huy_29 < 32*21);
+                } while (quan_331 >= 21*.e23/12_12);
+                a_27: integer = 123_24;
+            } 
+            katinat: array [12_1,3_45] of boolean = "huy_29 \" huy di hoc\"";
+        }
+        

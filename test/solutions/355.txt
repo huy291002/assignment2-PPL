@@ -1,0 +1,4 @@
+Program([
+	VarDecl(huy_12, IntegerType, FloatLit(1.22121e-05))
+	FuncDecl(hi, IntegerType, [InheritParam(a_29, IntegerType), OutParam(d, StringType), InheritOutParam(h_09, FloatType), Param(m, BooleanType)], bye, BlockStmt([CallStmt(saygoodbye, ), DoWhileStmt(BinExpr(!=, Id(a), BooleanLit(False)), BlockStmt([IfStmt(BinExpr(||, UnExpr(!, UnExpr(!, UnExpr(-, UnExpr(-, UnExpr(-, UnExpr(-, Id(a_29))))))), BinExpr(*, Id(b), IntegerLit(789))), BlockStmt([IfStmt(BinExpr(<, Id(hello), IntegerLit(1229)), BlockStmt([CallStmt(huy, BinExpr(+, BinExpr(*, BinExpr(/, IntegerLit(29), IntegerLit(123)), IntegerLit(2)), BinExpr(/, IntegerLit(1), IntegerLit(231))))]), ContinueStmt())]), BlockStmt([CallStmt(sieunhan, BinExpr(||, BinExpr(+, IntegerLit(32), BinExpr(/, IntegerLit(321), FloatLit(310.0))), BinExpr(%, BooleanLit(True), StringLit(quantretrau))))]))]))]))
+])

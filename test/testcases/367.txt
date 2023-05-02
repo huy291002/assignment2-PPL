@@ -1,0 +1,1 @@
+ma_06, ba_29, ac_03: integer = huy_09, 24_06_03_29, {3_1, 9.e-1}; // dang alm test case

@@ -1,0 +1,3 @@
+ mami_06: float = {"huy", "huy dang di hoc \b\n"};
+                    baba: boolean = !-12*23+3*4 ;
+                     

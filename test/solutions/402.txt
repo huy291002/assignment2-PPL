@@ -1,0 +1,6 @@
+Program([
+	VarDecl(a, IntegerType)
+	VarDecl(a, StringType)
+	FuncDecl(foo, IntegerType, [Param(a, IntegerType), Param(d, StringType)], None, BlockStmt([IfStmt(BinExpr(==, Id(n), IntegerLit(0)), ReturnStmt(IntegerLit(1)))]))
+	FuncDecl(bar, StringType, [Param(a, IntegerType)], None, BlockStmt([ReturnStmt(Id(a))]))
+])

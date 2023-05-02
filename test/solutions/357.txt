@@ -1,0 +1,4 @@
+Program([
+	VarDecl(hi, IntegerType)
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(+, BinExpr(+, UnExpr(!, UnExpr(-, Id(huy))), BinExpr(/, Id(quan), IntegerLit(2))), UnExpr(-, Id(hi))), BlockStmt([ReturnStmt(FuncCall(huy, [BinExpr(+, IntegerLit(29), BinExpr(*, BinExpr(/, IntegerLit(10), IntegerLit(2)), IntegerLit(32)))]))])), IfStmt(BooleanLit(True), BlockStmt([ReturnStmt(StringLit(huy ham hoc))]), BlockStmt([WhileStmt(BooleanLit(True), BlockStmt([AssignStmt(Id(a), BinExpr(+, Id(a), BinExpr(%, BinExpr(/, UnExpr(-, UnExpr(-, IntegerLit(21))), IntegerLit(42)), StringLit(huy))))]))]))]))
+])

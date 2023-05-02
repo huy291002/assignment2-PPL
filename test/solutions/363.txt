@@ -1,0 +1,4 @@
+Program([
+	VarDecl(__06, ArrayType([221, 3312123], BooleanType))
+	VarDecl(quanvahuy, IntegerType, StringLit(quan ham hoc))
+])

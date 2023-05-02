@@ -1,0 +1,8 @@
+
+        i_nc: function auto() inherit he_llo{
+            a: integer = 123----234+3*2/3;
+            return;
+            break;
+            continue;
+        }
+        

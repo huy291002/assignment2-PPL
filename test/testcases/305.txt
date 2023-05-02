@@ -1,0 +1,1 @@
+huy, goo, boo: string = "huy dang test \n", "co gang lay diem cao \b", "I lost her "; /* day chi la test */

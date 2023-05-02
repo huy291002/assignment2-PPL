@@ -1,0 +1,2 @@
+ quan: float = "huy dang hoc \f\t" :: "huy chay deadline" == "quan choi game" ;
+                     

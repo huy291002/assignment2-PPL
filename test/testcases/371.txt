@@ -1,0 +1,3 @@
+lost_first: array [1_0_19, 2_10, 2_22] of integer = a1_0[19_20, "hello huy \"huy khoe khong\"", false, false, 1_29_1.21, 2_9_3_1_12];
+                    hi : string = {12_21, "huy dang lam bai", false, 1.e-1} ;
+                    hello: float = {12.e+10, "quan lam bai \f"}; 

@@ -1,0 +1,4 @@
+Program([
+	VarDecl(huy_29, IntegerType, BinExpr(==, BinExpr(||, BinExpr(&&, UnExpr(!, BinExpr(||, Id(huy), Id(quan))), Id(c)), UnExpr(!, StringLit(bye))), BooleanLit(False)))
+	VarDecl(quan_27, IntegerType, BinExpr(+, Id(quan), UnExpr(-, BinExpr(+, FuncCall(huy, []), UnExpr(-, ArrayCell(d_12, [IntegerLit(2910), IntegerLit(210)]))))))
+])

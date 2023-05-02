@@ -1,0 +1,5 @@
+Program([
+	VarDecl(_quan, AutoType, FuncCall(m_12_01, [BinExpr(::, IntegerLit(21231), Id(x))]))
+	VarDecl(___, AutoType, UnExpr(!, FloatLit(10.0)))
+	VarDecl(huy_29, AutoType, UnExpr(-, FloatLit(2.12)))
+])

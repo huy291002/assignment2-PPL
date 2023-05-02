@@ -1,0 +1,5 @@
+huy_29_10: string = !!- aaa;
+        thanh_19: function float () {
+        while (i < 1)
+            i = i+1;
+        }  

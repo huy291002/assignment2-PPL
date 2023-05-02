@@ -1,0 +1,5 @@
+Program([
+	VarDecl(huy, StringType, FuncCall(messi, [IntegerLit(2212)]))
+	VarDecl(cfh, StringType, ArrayCell(ba, [IntegerLit(29)]))
+	VarDecl(tulia, StringType, Id(quan_dep_trai))
+])

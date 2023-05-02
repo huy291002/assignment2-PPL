@@ -1,0 +1,15 @@
+
+                a,b,c: integer= 12.32e+2, "huy dang lam bai \"quan di choi \b\t\"", ba_24; //test case
+                mami_06: function auto (inherit d: integer, out a: string, inherit out d: float) inherit bye_ars{
+                 for (i = 2/x+3*2*d, i != -3, i || d || c){
+                        if (i != huy_29_1)
+                        {
+                            return foo();
+                        }
+                        else
+                        {
+                        a = a+1;
+                        }
+                        hellomessi(i+1);
+                    }   
+                }

@@ -1,0 +1,4 @@
+Program([
+	VarDecl(hi, IntegerType)
+	FuncDecl(main, VoidType, [], a_29, BlockStmt([DoWhileStmt(BinExpr(<, Id(huy), BinExpr(-, BinExpr(+, Id(huy), FloatLit(0.01)), BinExpr(%, BinExpr(/, IntegerLit(31), IntegerLit(4)), UnExpr(!, BooleanLit(True))))), BlockStmt([AssignStmt(Id(b), BinExpr(::, Id(a), Id(a))), AssignStmt(ArrayCell(a, [ArrayCell(a, [IntegerLit(12323), IntegerLit(3221)])]), StringLit(hello)), WhileStmt(BooleanLit(False), BlockStmt([CallStmt(saygoodbye, )]))]))]))
+])

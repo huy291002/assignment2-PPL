@@ -1,0 +1,4 @@
+Program([
+	VarDecl(_29_huy, StringType, ArrayLit([StringLit(huy), StringLit(huy dang lam testcase \t\f)]))
+	VarDecl(_baba_2404, IntegerType, BinExpr(+, BinExpr(*, UnExpr(!, UnExpr(-, IntegerLit(12))), IntegerLit(23)), BinExpr(*, IntegerLit(3), IntegerLit(4))))
+])

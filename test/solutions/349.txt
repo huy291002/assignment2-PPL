@@ -1,0 +1,5 @@
+Program([
+	VarDecl(baba_24, ArrayType([291, 1223, 190, 378], BooleanType), ArrayCell(hello, [IntegerLit(123), FloatLit(291.0)]))
+	VarDecl(mami_06, FloatType, ArrayLit([StringLit(quan dang di choi \"xong bi gian khoc \" khoc huhu \t)]))
+	FuncDecl(ache_0309, IntegerType, [], huy_2910, BlockStmt([ForStmt(AssignStmt(Id(i), BinExpr(+, Id(a), BinExpr(/, BinExpr(*, IntegerLit(1), IntegerLit(2)), IntegerLit(3)))), BinExpr(<, Id(i), BinExpr(+, Id(i), IntegerLit(2))), BinExpr(&&, StringLit(huy_29\b), StringLit(quan_27\t)), BlockStmt([IfStmt(BinExpr(::, UnExpr(!, StringLit(quan luoi hoc)), StringLit(quan can than)), ReturnStmt(StringLit(quan diem cao)), AssignStmt(ArrayCell(saunay, [IntegerLit(123), IntegerLit(489)]), StringLit(quan khoc huhu \"doi huy bao nc\")))]))]))
+])

@@ -1,0 +1,1 @@
+saka, antony: boolean = super[24,4_4], hero[2_12,7_42]; 

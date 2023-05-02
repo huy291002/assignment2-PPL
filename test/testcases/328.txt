@@ -1,0 +1,3 @@
+huy_29: function integer (a: integer, b: string, e: boolean){
+            goo();
+        } 

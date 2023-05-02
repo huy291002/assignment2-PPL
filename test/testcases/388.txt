@@ -1,0 +1,3 @@
+cau_03: function void (a: integer, b: string, e: boolean){
+            saka();
+        } 

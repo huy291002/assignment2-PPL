@@ -1,0 +1,5 @@
+quan_02: function array[1_22_123_1] of integer (inherit yeu_29: array[52_12, 1_2] of string, out _: integer, d_12: boolean) {
+        for (i = 1, i < 10, i + 1) {
+            sayhi(hello);
+            }
+        }

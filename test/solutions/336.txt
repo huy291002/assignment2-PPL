@@ -1,0 +1,7 @@
+Program([
+	VarDecl(x, IntegerType, StringLit(hello\"Quynh Lam\"\t ne))
+	VarDecl(y, IntegerType, FloatLit(12345.21))
+	VarDecl(z, IntegerType, FuncCall(foo, [FuncCall(bar, []), Id(a)]))
+	VarDecl(t, ArrayType([10, 20], StringType), ArrayLit([StringLit(\"Lam khong yeu Huy\")]))
+	FuncDecl(func, VoidType, [InheritOutParam(x, ArrayType([0, 1], BooleanType)), OutParam(i, StringType)], None, BlockStmt([BlockStmt([]), BlockStmt([BlockStmt([CallStmt(print, StringLit(Hello))])])]))
+])

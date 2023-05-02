@@ -1,0 +1,14 @@
+
+        hi: integer;
+        main: function void() inherit a_29
+        {
+            do{
+                b = a::a;
+                a[a[123_23, 32_21]] = "hello";
+                while (false){
+                    saygoodbye();
+                }
+            }
+            while (huy < huy +1.e-2-31/4%!true);
+        }
+        

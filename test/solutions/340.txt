@@ -1,0 +1,4 @@
+Program([
+	VarDecl(__huy_10, IntegerType, UnExpr(!, UnExpr(!, UnExpr(-, Id(aaa)))))
+	FuncDecl(i_29, BooleanType, [], None, BlockStmt([WhileStmt(BinExpr(<, Id(i), IntegerLit(1)), AssignStmt(Id(i), BinExpr(+, Id(i), IntegerLit(1))))]))
+])

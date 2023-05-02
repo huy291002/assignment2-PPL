@@ -1,0 +1,3 @@
+ _29_mami: float = {"huy", "huy dang di hoc \b\n"};
+                    _baba_2404: integer = !-12*23+3*4 ;
+                     

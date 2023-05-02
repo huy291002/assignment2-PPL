@@ -1,0 +1,2 @@
+ lam_09, thanh_10: integer = 123_123_1_0_1_12, 2910.2e-1 ;
+                    a,c,d: float; 

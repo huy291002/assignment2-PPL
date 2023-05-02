@@ -1,0 +1,9 @@
+
+                _huy: array[21_1_2, 123_29] of boolean = {"huy dang lam testcase \"quan di choi\""};
+                main: function void()
+                {
+                if (a < a +1){
+                    a,b: integer = a[a[1_2,2_1]], .e-23;
+                }
+                } 
+                

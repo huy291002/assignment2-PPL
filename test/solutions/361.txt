@@ -1,0 +1,5 @@
+Program([
+	VarDecl(huy, BooleanType, StringLit(true))
+	VarDecl(ca, BooleanType, StringLit(false))
+	VarDecl(da, BooleanType, BooleanLit(True))
+])

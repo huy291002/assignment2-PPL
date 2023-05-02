@@ -1,0 +1,8 @@
+
+        a_29, huy_123: array[39_10] of integer = {.E2, "quan \"huy di hoc \b\t\"", true}, {12.29E-10, "huy", false};
+        hello: function void(){
+            return stmt;
+            continue;
+            break;
+        }
+        

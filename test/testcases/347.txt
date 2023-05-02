@@ -1,0 +1,6 @@
+
+        i_nc: function auto(a: array[12_1,29_1] of string) {
+            if (a == !---384*4+d_a) break;
+            else continue;
+        }
+        

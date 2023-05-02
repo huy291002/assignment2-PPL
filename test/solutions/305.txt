@@ -1,0 +1,5 @@
+Program([
+	VarDecl(huy, StringType, StringLit(huy dang test \n))
+	VarDecl(goo, StringType, StringLit(co gang lay diem cao \b))
+	VarDecl(boo, StringType, StringLit(I lost her ))
+])

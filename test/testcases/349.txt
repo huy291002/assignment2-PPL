@@ -1,0 +1,12 @@
+
+        baba_24: array[29_1, 12_23, 1_90, 3_78] of boolean = hello[123, 29.1e+1]; /* dang lam bieng */
+        mami_06: float = {"quan dang di choi \"xong bi gian khoc \" khoc huhu \t"}; //testcase
+        ache_0309: function integer() inherit huy_2910 {
+            for (i = a+1*2/3, i < i+2, "huy_29\b" && "quan_27\t")
+            {
+                if (!"quan luoi hoc" :: "quan can than")
+                 return "quan diem cao";
+                else saunay[12_3,4_89] = "quan khoc huhu \"doi huy bao nc\"";
+            }
+        }
+        

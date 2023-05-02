@@ -1,0 +1,5 @@
+Program([
+	VarDecl(sadboiz_huy, BooleanType, BooleanLit(True))
+	VarDecl(trapboy_thanh, FloatType, BinExpr(-, BinExpr(+, FloatLit(0.0), BinExpr(*, BinExpr(/, IntegerLit(12), IntegerLit(4)), IntegerLit(29))), IntegerLit(10)))
+	FuncDecl(quanbipbom, VoidType, [], hello, BlockStmt([IfStmt(BinExpr(::, StringLit(cuong gam giuong), BinExpr(!=, StringLit(bik qua nhiu), StringLit(dung su that))), ReturnStmt(StringLit(cuong noi xao \"qua choi\" lun do \f)), BlockStmt([DoWhileStmt(BinExpr(!=, Id(quan), StringLit(im mom di)), BlockStmt([VarDecl(huychamhoc, IntegerType, IntegerLit(2910)), VarDecl(thanhdsa, FloatType, FloatLit(0.01))]))]))]))
+])

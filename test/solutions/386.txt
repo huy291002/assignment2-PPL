@@ -1,0 +1,7 @@
+Program([
+	VarDecl(lam_09, IntegerType, IntegerLit(12312310112))
+	VarDecl(thanh_10, IntegerType, FloatLit(291.02))
+	VarDecl(a, FloatType)
+	VarDecl(c, FloatType)
+	VarDecl(d, FloatType)
+])

@@ -1,0 +1,5 @@
+Program([
+	VarDecl(h_uy_1_2, ArrayType([109, 2910, 112233], StringType))
+	VarDecl(a_bc_d29, StringType, ArrayLit([StringLit(quan), StringLit(huy), StringLit(thanh), StringLit(cuong)]))
+	VarDecl(t_quan_anh, FloatType, ArrayLit([FloatLit(120000000000.0), FloatLit(12.1), FloatLit(2910000.0)]))
+])

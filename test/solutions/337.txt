@@ -1,0 +1,5 @@
+Program([
+	VarDecl(huy_29, ArrayType([121, 213], BooleanType), ArrayLit([StringLit(quan luot tiktok \"ko trl tin nhan nhi\"), StringLit(nhi buon nhi khoc)]))
+	VarDecl(quan_27, ArrayType([121, 213], BooleanType), FloatLit(12312000.0))
+	FuncDecl(friend_29, VoidType, [InheritParam(b, IntegerType), OutParam(a, StringType)], quandeptrai, BlockStmt([WhileStmt(BinExpr(<, Id(a), BinExpr(+, Id(a), IntegerLit(1))), AssignStmt(ArrayCell(a, [IntegerLit(213), IntegerLit(312)]), IntegerLit(29))), BreakStmt()]))
+])

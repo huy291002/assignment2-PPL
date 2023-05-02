@@ -1,0 +1,6 @@
+Program([
+	VarDecl(__29_10, IntegerType, BinExpr(+, BinExpr(+, UnExpr(-, IntegerLit(3)), BinExpr(/, BinExpr(*, IntegerLit(29), IntegerLit(9)), IntegerLit(10))), IntegerLit(4)))
+	VarDecl(d, FloatType, UnExpr(!, FloatLit(12000.0)))
+	VarDecl(c, FloatType, BinExpr(&&, BinExpr(||, Id(quan), Id(huy)), Id(thanh)))
+	VarDecl(e_1, ArrayType([2341, 2305, 219, 322], FloatType))
+])

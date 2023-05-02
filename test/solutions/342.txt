@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(_29quan, ArrayType([29, 191], StringType), [], ___, BlockStmt([VarDecl(huy_29, FloatType, FloatLit(1e+22)), WhileStmt(BinExpr(<, UnExpr(!, UnExpr(-, Id(__huy))), FloatLit(21.3)), BlockStmt([WhileStmt(BinExpr(>=, Id(_quan_29), UnExpr(!, StringLit(huy \"huy\t\"))), BlockStmt([AssignStmt(Id(i), BinExpr(::, Id(huy), BinExpr(<=, StringLit(quan), FloatLit(0.0))))])), AssignStmt(Id(i), BinExpr(+, Id(i), IntegerLit(1)))]))]))
+])

@@ -1,0 +1,6 @@
+huy, quan: array[12_1,21_3] of integer= {"quan luot tiktok \"ko trl tin nhan nhi\"", "nhi buon nhi khoc"}, 123_12.e+3;
+                friend_29: function void (inherit b: integer, out a: string) inherit quandeptrai{
+                while (a < a+1)
+                 a[213, 3_12] = 29;
+                 break;
+                } 

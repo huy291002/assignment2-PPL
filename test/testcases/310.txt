@@ -1,0 +1,3 @@
+h_uy_1_2: array [1_09, 2_9_1_0, 11_22_3_3] of string;
+                    a_bc_d29 : string = {"quan", "huy","thanh", "cuong"} ;
+                    t_quan_anh: float = {12.e+10, 1_2.10, 29_10.e3}; 

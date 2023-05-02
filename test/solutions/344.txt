@@ -1,0 +1,6 @@
+Program([
+	VarDecl(a, IntegerType, FloatLit(1232.0))
+	VarDecl(b, IntegerType, StringLit(huy dang lam bai \"quan di choi \b\t\"))
+	VarDecl(c, IntegerType, Id(ba_24))
+	FuncDecl(mami_06, AutoType, [InheritParam(d, IntegerType), OutParam(a, StringType), InheritOutParam(d, FloatType)], bye_ars, BlockStmt([ForStmt(AssignStmt(Id(i), BinExpr(+, BinExpr(/, IntegerLit(2), Id(x)), BinExpr(*, BinExpr(*, IntegerLit(3), IntegerLit(2)), Id(d)))), BinExpr(!=, Id(i), UnExpr(-, IntegerLit(3))), BinExpr(||, BinExpr(||, Id(i), Id(d)), Id(c)), BlockStmt([IfStmt(BinExpr(!=, Id(i), Id(huy_29_1)), BlockStmt([ReturnStmt(FuncCall(foo, []))]), BlockStmt([AssignStmt(Id(a), BinExpr(+, Id(a), IntegerLit(1)))])), CallStmt(hellomessi, BinExpr(+, Id(i), IntegerLit(1)))]))]))
+])

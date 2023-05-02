@@ -1,0 +1,4 @@
+Program([
+	VarDecl(_huy9, ArrayType([12, 213, 412], FloatType), BinExpr(-, UnExpr(!, UnExpr(-, FloatLit(12340.0))), BinExpr(/, IntegerLit(24123), IntegerLit(111))))
+	VarDecl(che_03, ArrayType([12, 213, 412], FloatType), ArrayLit([Id(huy), BooleanLit(True), FloatLit(2123.23), IntegerLit(1032), StringLit(quan coc huy \b\"huy khoc \f\")]))
+])

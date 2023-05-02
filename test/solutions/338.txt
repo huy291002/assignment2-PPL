@@ -1,0 +1,5 @@
+Program([
+	VarDecl(__, IntegerType, ArrayLit([StringLit(quan con choi insta ko), Id(hello), IntegerLit(122901123), FloatLit(1.2)]))
+	VarDecl(_2_9_10, IntegerType, FuncCall(foo, [BinExpr(/, IntegerLit(2), Id(x))]))
+	FuncDecl(main, StringType, [InheritParam(a_29, StringType), OutParam(quan__27, ArrayType([21], BooleanType))], lam_testcae, BlockStmt([IfStmt(BinExpr(!=, Id(a), IntegerLit(23)), ReturnStmt(FuncCall(foo, [BinExpr(+, IntegerLit(4), Id(y))])), BlockStmt([CallStmt(messi, BinExpr(+, IntegerLit(2), BinExpr(*, BinExpr(/, Id(x), Id(y)), IntegerLit(3)))), ContinueStmt()]))]))
+])

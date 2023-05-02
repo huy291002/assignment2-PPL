@@ -1,0 +1,2 @@
+_huy_12_1, _messi : float  = 2_12 +- 5_1_1_02, !29%5 ;
+                    a,b:  string = "huy \"dang hoc\" bi quan pha ", "quan bip bom"=="huy that tha" ;

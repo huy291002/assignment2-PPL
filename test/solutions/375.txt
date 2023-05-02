@@ -1,0 +1,6 @@
+Program([
+	VarDecl(saka_jesus, FloatType, ArrayLit([BooleanLit(True), BooleanLit(False), BooleanLit(True), BooleanLit(False)]))
+	VarDecl(quy_18, FloatType, BinExpr(<=, IntegerLit(21212), IntegerLit(411129)))
+	VarDecl(a, FloatType, BinExpr(>=, FloatLit(10.22), FloatLit(0.1013)))
+	VarDecl(b, FloatType, BinExpr(-, BinExpr(+, Id(a), BinExpr(*, BinExpr(/, IntegerLit(10), IntegerLit(2)), FloatLit(30.0))), Id(x_29)))
+])

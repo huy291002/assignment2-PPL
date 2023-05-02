@@ -1,0 +1,5 @@
+Program([
+	VarDecl(lost_her, FloatType, FuncCall(foo, [BinExpr(+, IntegerLit(2), Id(x)), BinExpr(/, IntegerLit(4), Id(y))]))
+	VarDecl(a_06_06, FloatType, BinExpr(+, Id(a), BinExpr(/, IntegerLit(10), IntegerLit(2))))
+	VarDecl(d_2_03, FloatType, BinExpr(||, Id(b_102), IntegerLit(29)))
+])

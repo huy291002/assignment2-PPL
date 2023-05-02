@@ -1,0 +1,5 @@
+Program([
+	VarDecl(huy, IntegerType, FloatLit(1.2321e+27))
+	VarDecl(i_29_quan, FloatType, FloatLit(0.0))
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(!=, Id(huy), BinExpr(&&, IntegerLit(233472987), BinExpr(==, Id(quan), StringLit(quan cham chi \"quan ham hoc\")))), BlockStmt([ForStmt(AssignStmt(Id(huy_29), BinExpr(+, BinExpr(/, BinExpr(*, IntegerLit(38), IntegerLit(28)), IntegerLit(323)), FloatLit(1223.0))), BinExpr(<, Id(huy), StringLit(huy 10 diem \"huy di choi\")), BinExpr(+, UnExpr(!, UnExpr(-, Id(huy))), BinExpr(/, Id(quan), IntegerLit(29))), BlockStmt([ContinueStmt()])), BreakStmt()])), CallStmt(messi, BinExpr(+, BinExpr(+, BinExpr(/, IntegerLit(2), IntegerLit(3)), BinExpr(*, BinExpr(*, IntegerLit(1), IntegerLit(2)), IntegerLit(2))), Id(quan)))]))
+])

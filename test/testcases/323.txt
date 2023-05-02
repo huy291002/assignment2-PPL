@@ -1,0 +1,3 @@
+ _mami0606: integer = 12321.2e1+1_123--3_21*1.2e+1;
+                    _baba_2404: string = "huy dang lam test case \f\"dung lam phien huy\t\"";
+                     

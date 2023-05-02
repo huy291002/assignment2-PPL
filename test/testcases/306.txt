@@ -1,0 +1,1 @@
+huy, goo, boo: string = "huy dang test \"xin dung lam phien \r\"\n", _huy[1_0_12, 2_9], a[2, 7]; // dang alm test case

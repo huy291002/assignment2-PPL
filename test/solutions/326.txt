@@ -1,0 +1,7 @@
+Program([
+	VarDecl(quan_27, IntegerType, IntegerLit(12312310112))
+	VarDecl(cuong_1808, IntegerType, FloatLit(291.02))
+	VarDecl(a, StringType)
+	VarDecl(c, StringType)
+	VarDecl(d, StringType)
+])

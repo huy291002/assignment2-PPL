@@ -1,0 +1,11 @@
+hello: function string (inherit out a: integer, out b29: string) inherit function_name{
+            de_29, huy_9: integer = true, 12.31e+1;
+            do {
+                r, s: integer;
+                r = 2.0;
+                a, b: array [5] of integer;
+                s = r * r * myPI;
+                a[0] = s;
+                }
+            while ("quan" != "huy" );
+            }

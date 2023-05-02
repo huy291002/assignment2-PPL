@@ -1,0 +1,5 @@
+Program([
+	VarDecl(huy, StringType, StringLit(huy dang test \"xin dung lam phien \r\"\n))
+	VarDecl(goo, StringType, ArrayCell(_huy, [IntegerLit(1012), IntegerLit(29)]))
+	VarDecl(boo, StringType, ArrayCell(a, [IntegerLit(2), IntegerLit(7)]))
+])

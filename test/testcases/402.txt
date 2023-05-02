@@ -1,0 +1,9 @@
+a: integer;
+                    a: string;
+                    foo: function integer(a: integer, d: string){
+                        if (n == 0) return 1;
+                    }
+                   bar: function string(a: integer){
+                    return a;
+                   }
+                    

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(hello, StringType, [InheritOutParam(a, IntegerType), OutParam(b29, StringType)], function_name, BlockStmt([VarDecl(de_29, IntegerType, BooleanLit(True)), VarDecl(huy_9, IntegerType, FloatLit(123.1)), DoWhileStmt(BinExpr(!=, StringLit(quan), StringLit(huy)), BlockStmt([VarDecl(r, IntegerType), VarDecl(s, IntegerType), AssignStmt(Id(r), FloatLit(2.0)), VarDecl(a, ArrayType([5], IntegerType)), VarDecl(b, ArrayType([5], IntegerType)), AssignStmt(Id(s), BinExpr(*, BinExpr(*, Id(r), Id(r)), Id(myPI))), AssignStmt(ArrayCell(a, [IntegerLit(0)]), Id(s))]))]))
+])

@@ -1,0 +1,8 @@
+Program([
+	VarDecl(huy, IntegerType, FuncCall(__huy, [BinExpr(*, IntegerLit(212), FuncCall(me, [BinExpr(-, BinExpr(+, FloatLit(1.23), BinExpr(*, BinExpr(/, FloatLit(210.0), IntegerLit(1202)), IntegerLit(12))), UnExpr(-, IntegerLit(12)))]))]))
+	VarDecl(_09_10, IntegerType, BooleanLit(True))
+	VarDecl(h, IntegerType, BooleanLit(False))
+	VarDecl(u, IntegerType, Id(hello))
+	VarDecl(y, IntegerType, FloatLit(23.0))
+	VarDecl(c_1808, FloatType)
+])

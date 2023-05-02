@@ -1,0 +1,6 @@
+Program([
+	VarDecl(uy_01_1, StringType, BinExpr(+, IntegerLit(212), UnExpr(-, IntegerLit(51102))))
+	VarDecl(si, StringType, BinExpr(%, UnExpr(!, IntegerLit(29)), IntegerLit(5)))
+	VarDecl(a, StringType, StringLit(huy \"dang hoc\" bi quan pha ))
+	VarDecl(b, StringType, BinExpr(==, StringLit(quan bip bom), StringLit(huy that tha)))
+])

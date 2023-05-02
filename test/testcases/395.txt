@@ -1,0 +1,8 @@
+
+        /* Huy chua co bo */
+        b, c : float = !true, "false";
+        part: function auto (out n: integer,inherit i: string) inherit foo {
+            /* dang lam testcase */
+            for (a[a[0, 1_2]] = 0, (a < 1_0.20) || !false, a*-2) x = x*(2+y);
+        }
+        

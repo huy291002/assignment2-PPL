@@ -1,0 +1,5 @@
+Program([
+	VarDecl(__huy_13, ArrayType([4332, 103, 40], BooleanType), ArrayLit([StringLit(quan ham choi \n\t\"huy di hoc\")]))
+	VarDecl(quan_2711, ArrayType([4332, 103, 40], BooleanType), FloatLit(0.0))
+	FuncDecl(m_quan_2910, ArrayType([3212, 432], StringType), [InheritParam(d, IntegerType)], _, BlockStmt([WhileStmt(BinExpr(||, BinExpr(&&, BinExpr(!=, Id(huy_29), IntegerLit(2904)), BinExpr(<=, Id(quan_27), Id(huy_2910))), BinExpr(>, Id(haha), Id(huhu))), BlockStmt([DoWhileStmt(BinExpr(>=, Id(quan_331), BinExpr(/, BinExpr(*, IntegerLit(21), FloatLit(0.0)), IntegerLit(1212))), BlockStmt([VarDecl(solution, BooleanType, BooleanLit(True)), VarDecl(t_c_18, FloatType, FloatLit(0.0)), DoWhileStmt(BinExpr(<, Id(huy_29), BinExpr(*, IntegerLit(32), IntegerLit(21))), BlockStmt([ReturnStmt(FuncCall(foodboy, [BinExpr(+, Id(n_291), BinExpr(/, IntegerLit(2), IntegerLit(3)))]))]))])), VarDecl(a_27, IntegerType, IntegerLit(12324))])), VarDecl(katinat, ArrayType([121, 345], BooleanType), StringLit(huy_29 \" huy di hoc\"))]))
+])

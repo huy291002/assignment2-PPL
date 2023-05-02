@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(i_nc, AutoType, [Param(a, ArrayType([121, 291], StringType))], None, BlockStmt([IfStmt(BinExpr(==, Id(a), BinExpr(+, BinExpr(*, UnExpr(!, UnExpr(-, UnExpr(-, UnExpr(-, IntegerLit(384))))), IntegerLit(4)), Id(d_a))), BreakStmt(), ContinueStmt())]))
+])

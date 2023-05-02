@@ -1,0 +1,2 @@
+ ___2711_quan: string = "huy dang hoc \f\t" :: "huy chay deadline" == "quan choi game" ;
+                     

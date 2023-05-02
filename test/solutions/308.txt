@@ -1,0 +1,5 @@
+Program([
+	VarDecl(qh_uy, BooleanType, BooleanLit(True))
+	VarDecl(_lost, BooleanType, BooleanLit(True))
+	VarDecl(__quan, BooleanType, ArrayLit([IntegerLit(30212), IntegerLit(23101234)]))
+])

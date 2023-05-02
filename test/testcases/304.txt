@@ -1,0 +1,1 @@
+huy, messi: integer = huy[2,9], quan[2,7]; 

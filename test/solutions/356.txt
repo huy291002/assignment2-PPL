@@ -1,0 +1,5 @@
+Program([
+	VarDecl(huy_12, FloatType, FloatLit(0.0))
+	VarDecl(__, BooleanType, BooleanLit(True))
+	FuncDecl(_291, VoidType, [], None, BlockStmt([ForStmt(AssignStmt(ArrayCell(a, [ArrayCell(a, [ArrayCell(a, [IntegerLit(2910), IntegerLit(989)])])]), BooleanLit(True)), BinExpr(<, Id(hey), BinExpr(+, Id(hey), UnExpr(-, UnExpr(-, UnExpr(-, IntegerLit(2)))))), BinExpr(-, Id(hi), UnExpr(-, IntegerLit(2))), BlockStmt([ForStmt(AssignStmt(ArrayCell(a, [IntegerLit(304)]), FuncCall(foo, [BinExpr(*, IntegerLit(2), IntegerLit(3))])), BinExpr(<, Id(i), IntegerLit(1)), BinExpr(-, Id(i), UnExpr(-, IntegerLit(2))), BlockStmt([CallStmt(saka, BinExpr(+, BinExpr(/, IntegerLit(1423), IntegerLit(23)), IntegerLit(3124)), BinExpr(+, BinExpr(-, BinExpr(/, BinExpr(*, IntegerLit(183), IntegerLit(233)), IntegerLit(123)), IntegerLit(43)), BooleanLit(True)))])), CallStmt(jesus, BooleanLit(True))]))]))
+])

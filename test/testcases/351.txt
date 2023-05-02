@@ -1,0 +1,15 @@
+
+        main: function auto(inherit __: string, out huy_29: integer){
+            if ((huy != "quan ham hoc") && (a != b)) {
+                hello = "quan bip bom";
+                a_29: array[29_10] of integer = {123_32, "quan \"huy di hoc \b\t\""};
+            }
+            else
+            {
+                for ( a[a[123_1, 1243]] = 123_343, i < 29_12, i +1)
+                {
+                    return fact(n-1) * (n+2);
+                }
+            }
+        }
+        

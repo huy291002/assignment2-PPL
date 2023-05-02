@@ -1,0 +1,15 @@
+
+        sadboiz_huy: boolean = true;
+        trapboy_thanh: float = .e23 + 12/4*2_9-10;
+        quanbipbom: function void() inherit hello{
+            if ("cuong gam giuong" :: "bik qua nhiu" != "dung su that")
+                return "cuong noi xao \"qua choi\" lun do \f";
+            else{
+                do{
+                    huychamhoc: integer = 29_10;
+                    thanhdsa: float = .1e-1;
+                }
+                while (quan != "im mom di");
+            }
+        }
+        

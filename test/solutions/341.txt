@@ -1,0 +1,4 @@
+Program([
+	VarDecl(__huy_10, IntegerType, FloatLit(0.0))
+	FuncDecl(_29quan, ArrayType([29, 191], StringType), [], ___, BlockStmt([IfStmt(BinExpr(<=, UnExpr(], UnExpr([, UnExpr(], UnExpr([, Id(a))))), IntegerLit(2)), ReturnStmt(FuncCall(fact, [BinExpr(-, Id(n), IntegerLit(1))])))]))
+])

@@ -1,0 +1,7 @@
+Program([
+	VarDecl(h_uy_1_2, FloatType, FloatLit(2910.21))
+	VarDecl(_goo_1, FloatType, ArrayCell(_h_uy, [IntegerLit(292), IntegerLit(901)]))
+	VarDecl(th_anh_0101, FloatType, ArrayLit([IntegerLit(910), IntegerLit(211290)]))
+	VarDecl(a_bc_d, StringType)
+	VarDecl(d_huy, StringType)
+])

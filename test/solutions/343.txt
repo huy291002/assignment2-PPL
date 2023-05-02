@@ -1,0 +1,4 @@
+Program([
+	VarDecl(_huy, ArrayType([2112, 12329], BooleanType), ArrayLit([StringLit(huy dang lam testcase \"quan di choi\")]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(<, Id(a), BinExpr(+, Id(a), IntegerLit(1))), BlockStmt([VarDecl(a, IntegerType, ArrayCell(a, [ArrayCell(a, [IntegerLit(12), IntegerLit(21)])])), VarDecl(b, IntegerType, FloatLit(0.0))]))]))
+])

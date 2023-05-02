@@ -1,0 +1,2 @@
+ _huy9, che_03: array [1_2, 2_13, 4_12] of float = !-1_234e+1-24_123/1_11, {huy, true, 2_123.23, 1_032, "quan coc huy \b\"huy khoc \f\""};
+                     

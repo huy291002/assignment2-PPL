@@ -1,0 +1,4 @@
+Program([
+	VarDecl(_mami0606, IntegerType, BinExpr(-, BinExpr(+, FloatLit(123212.0), IntegerLit(1123)), BinExpr(*, UnExpr(-, IntegerLit(321)), FloatLit(12.0))))
+	VarDecl(_baba_2404, StringType, StringLit(huy dang lam test case \f\"dung lam phien huy\t\"))
+])

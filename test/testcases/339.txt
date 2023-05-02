@@ -1,0 +1,11 @@
+
+                main: function string (inherit a_29: string, out quan__27: array[2_1] of boolean) inherit lam_testcae {
+                    hello_quan: integer = {"quan luot tiktok"};
+                    for (i = 1, i < 2,  x+y*z/t+--2_3){
+                        for (a[21,12_2_0] = 2, a < 12.e+1, a+1)
+                        {
+                            return;
+                        }
+                        i = i+1;
+                    }
+                }  

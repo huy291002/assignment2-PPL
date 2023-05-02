@@ -1,0 +1,15 @@
+
+            x, y, z: integer = "hello\"Quynh Lam\"\t ne", 1_23_45.21000, foo(bar(), a);
+            t: array [1_0, 2_0] of string = {"\"Lam khong yeu Huy\""};
+            func: function void (inherit out x: array [0, 1] of boolean, out i: string) {
+                {
+                    // Empty block
+                }
+                {
+                    /* Empty block */
+                    {
+                        print("Hello");
+                    }
+                }
+            }
+        

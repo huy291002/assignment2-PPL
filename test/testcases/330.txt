@@ -1,0 +1,4 @@
+__29: function auto (inherit out huy_29: string, out _h__: float, __: integer) inherit quan_thay{
+            if (i == 1)
+                return i;
+        } 

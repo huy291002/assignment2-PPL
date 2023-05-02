@@ -1,0 +1,5 @@
+Program([
+	VarDecl(lost_first, ArrayType([1019, 210, 222], IntegerType), ArrayCell(a1_0, [IntegerLit(1920), StringLit(hello huy \"huy khoe khong\"), BooleanLit(False), BooleanLit(False), FloatLit(1291.21), IntegerLit(293112)]))
+	VarDecl(hi, StringType, ArrayLit([IntegerLit(1221), StringLit(huy dang lam bai), BooleanLit(False), FloatLit(0.1)]))
+	VarDecl(hello, FloatType, ArrayLit([FloatLit(120000000000.0), StringLit(quan lam bai \f)]))
+])

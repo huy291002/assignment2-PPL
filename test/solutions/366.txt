@@ -1,0 +1,5 @@
+Program([
+	VarDecl(qu_27, IntegerType, BooleanLit(False))
+	VarDecl(h_29, IntegerType, BooleanLit(True))
+	VarDecl(t_31, IntegerType, StringLit(quan di choi \t))
+])

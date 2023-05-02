@@ -1,0 +1,5 @@
+Program([
+	VarDecl(thien, IntegerType, FloatLit(1.2321e+27))
+	VarDecl(wee_542_pe, FloatType, FloatLit(0.0))
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(!=, Id(thien), BinExpr(&&, IntegerLit(233472987), BinExpr(==, Id(pe), StringLit(pe cham chi pe ham hoc)))), BlockStmt([ForStmt(AssignStmt(Id(thien_29_3728), BinExpr(+, BinExpr(/, BinExpr(*, IntegerLit(38), IntegerLit(28)), IntegerLit(323)), FloatLit(1223.0))), BinExpr(<, Id(thien), StringLit(thien 10 diem)), BinExpr(+, BinExpr(-, Id(a), Id(thien)), BinExpr(/, Id(pe), IntegerLit(29))), BlockStmt([AssignStmt(Id(thien), IntegerLit(1))])), ForStmt(AssignStmt(Id(m), IntegerLit(12341294)), BinExpr(<, Id(m), IntegerLit(12232242)), BinExpr(+, Id(m), FloatLit(234500.0)), BlockStmt([CallStmt(testcase, BinExpr(*, IntegerLit(10), IntegerLit(2))), IfStmt(BinExpr(==, Id(sdjsfds), IntegerLit(2)), BlockStmt([VarDecl(h, IntegerType, IntegerLit(12323)), VarDecl(a, IntegerType, IntegerLit(14890)), VarDecl(d, IntegerType, IntegerLit(2910))]))]))])), CallStmt(thao, BinExpr(+, BinExpr(+, BinExpr(/, IntegerLit(2), IntegerLit(3)), BinExpr(*, BinExpr(*, IntegerLit(1), IntegerLit(2)), IntegerLit(2))), Id(pe)))]))
+])

@@ -1,0 +1,5 @@
+__huy_10: integer = .e23 ;
+                _29quan: function array[29,19_1] of string () inherit ___{
+                    if (a[][] <= 2)
+                        return fact(n-1);
+                }

@@ -1,0 +1,7 @@
+Program([
+	VarDecl(lam, FloatType, FloatLit(129549.29))
+	VarDecl(huy, FloatType, IntegerLit(22910))
+	VarDecl(quan, FloatType, FloatLit(0.0001242))
+	VarDecl(fuong, FloatType, Id(quan_ham_2710))
+	VarDecl(gio, FloatType, BooleanLit(True))
+])

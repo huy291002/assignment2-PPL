@@ -1,0 +1,3 @@
+ _29_huy: string = {"huy", "huy dang lam testcase \t\f"};
+                    _baba_2404: integer = !-12*23+3*4 ;
+                     

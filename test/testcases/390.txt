@@ -1,0 +1,4 @@
+huy_29: function string (inherit out huy_29: string, out _h__: float, __: integer) inherit quan_thay{
+            if (a == 1)
+                return a;
+        } 

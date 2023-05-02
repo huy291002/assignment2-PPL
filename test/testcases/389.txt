@@ -1,0 +1,3 @@
+huy: function auto (out a: integer, delta: integer){
+            n = n + delta;
+        } 

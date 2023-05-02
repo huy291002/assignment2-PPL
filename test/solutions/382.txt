@@ -1,0 +1,4 @@
+Program([
+	VarDecl(mami_06, FloatType, ArrayLit([StringLit(huy), StringLit(huy dang di hoc \b\n)]))
+	VarDecl(baba, BooleanType, BinExpr(+, BinExpr(*, UnExpr(!, UnExpr(-, IntegerLit(12))), IntegerLit(23)), BinExpr(*, IntegerLit(3), IntegerLit(4))))
+])

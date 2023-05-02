@@ -1,0 +1,5 @@
+Program([
+	VarDecl(quan, StringType, BinExpr(::, StringLit(quan), BinExpr(<, StringLit(huy dang hoc \f), BinExpr(||, StringLit(thanh cay phim), Id(hello_friend)))))
+	VarDecl(h_10_, StringType, UnExpr(!, UnExpr(-, FloatLit(123.423))))
+	VarDecl(lamf_1, StringType, FuncCall(messi, [BinExpr(/, IntegerLit(212), Id(x))]))
+])
